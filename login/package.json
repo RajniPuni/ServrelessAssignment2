@@ -8,6 +8,10 @@
     "scripts": {
         "start": "node server.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RajniPuni/ServrelessAssignment2.git"
+    },
     "dependencies": {
         "cors": "^2.8.5",
         "dotenv": "^9.0.0",
