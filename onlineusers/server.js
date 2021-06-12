@@ -30,6 +30,6 @@ app.get('/', function (req, res) {
     //res.sendFile(__dirname + '/onlineusers.html');
 });
 
-var server = app.listen(3004, function () {
+var server = app.listen(4002, function () {
     console.log('Node server is running..');
 });
