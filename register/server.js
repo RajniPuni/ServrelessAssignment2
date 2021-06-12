@@ -32,6 +32,6 @@ app.post('/', function(request, response){
     return response.send({ "message": "user inserted" });
 });
 
-var server = app.listen(5001, function () {
+var server = app.listen(4001, function () {
     console.log('Node server is running..');
 });
